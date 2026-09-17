@@ -32,6 +32,6 @@ When git asks for a username, type your GitHub username. When it asks for a pass
 
 ```
 cd ~
-git clone https://github.com/ivycollegiate-development/asa-roster-page-part1-USERNAME.git
-cd asa-roster-page-part1-USERNAME
+git clone https://github.com/ivycollegiate-development/asa-roster-page-part1-yutseng31.git
+cd asa-roster-page-part1-yutseng31
 ```

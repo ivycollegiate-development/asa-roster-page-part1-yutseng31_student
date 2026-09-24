@@ -3,8 +3,9 @@
 You work on the class VS Code server, in your own clone of this repo.
 Your userid shows up in your repo name, your clone URL, and your filenames
 via `$(whoami)`: `whoami` prints your userid, and `$(whoami)` inserts it
-automatically. If the folder is missing, re-clone it — your lesson has the
-exact URL, always ending in `_student.git`.
+automatically. If the folder is missing, re-clone it — your lesson has the exact
+URL, always ending in `-<your-username>.git` (example:
+`asa-roster-page-part1-cyen29.git`).
 
 **Pull before work, every session** — it gets any changes I pushed to your
 repo since last class:

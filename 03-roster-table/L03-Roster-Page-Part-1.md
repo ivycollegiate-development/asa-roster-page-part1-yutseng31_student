@@ -8,7 +8,7 @@ Today you start building the Teams screen of our basketball app with HTML — th
 **Links you will need**
 
 - Your code workspace: https://vscode.ivycollegiate.org/ (sign in with your SCHOOL account — personal Gmail will not work)
-- Your own repo: your own repo, named `asa-roster-page-part1-` + your code-server username + `_student` (example: username `cyen29` → repo `asa-roster-page-part1-cyen29_student`). Because every student has a different repo, this is not one clickable link — your exact repo name is in your row of the setup sheet. To open it in a browser: sign in at https://github.com, click your profile icon (top right), then **Your repositories**.
+- Your own repo, named `asa-roster-page-part1-` + your code-server username + `_student` (example: username `cyen29` → repo `asa-roster-page-part1-cyen29_student`). Because every student has a different repo, this is not one clickable link — your exact repo name is in your row of the setup sheet. To open it in a browser: sign in at https://github.com, click your profile icon (top right), then **Your repositories**.
 - Setup sheet: GitHub Account Setup — Coding/Design ASA (linked in today's Classwork assignment) — do this first if you have never cloned or pushed before
 - Reference project repo: https://github.com/ivycollegiate-development/coding-design-asa
 - Worksheet for today: HTML Basics — Roster Page Part 1 Worksheet 0924 (linked in today's Classwork assignment)

@@ -27,7 +27,8 @@ git pull
 # asa-roster-page-part1 — your own repo
 
 You received your OWN copy of this repo by accepting a GitHub invitation in
-your email. Only you and Mr. Jones can see it. Everything for the Teams
+your email. Everyone in class has their own copy, so your work is yours alone.
+Everything for the Teams
 screen of our Basketball Stats App happens in this copy.
 
     03-roster-table/index.html   the roster page you build on

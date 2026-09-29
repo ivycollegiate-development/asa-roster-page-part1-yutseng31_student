@@ -19,11 +19,11 @@ Today you start building the Teams screen of our basketball app with HTML — th
 
 1. Open Chrome and go to https://vscode.ivycollegiate.org/ — click **Open your session** and sign in with your SCHOOL account.
 2. Click **Terminal** in the menu bar at the top of the window, then click **New Terminal**.
-3. Click inside the terminal, type exactly this, and press Enter after each line. **YOURUSERNAME is your code-server username — the exact repo name is in your row of the setup sheet.**
+3. Click inside the terminal, type exactly this, and press Enter after each line. **YOURUSERNAME is your code-server username. Your repo name is `asa-roster-page-part1-` + YOURUSERNAME + `_student` — the `_student` at the end is required, and the exact name is in your row of the setup sheet.**
 
    ```
-   git clone https://github.com/ivycollegiate-development/asa-roster-page-part1-YOURUSERNAME.git
-   cd asa-roster-page-part1-YOURUSERNAME
+   git clone https://github.com/ivycollegiate-development/asa-roster-page-part1-YOURUSERNAME_student.git
+   cd asa-roster-page-part1-YOURUSERNAME_student
    ```
 
    ☐ My terminal cloned the repo with no red text. If it shows anything red, raise your hand.
